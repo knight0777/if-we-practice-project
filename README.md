@@ -6,4 +6,7 @@ how can i help you
 seconf stages starts t36123t62
 .
 how can i understand
-developer 1 i can find
+
+so we find out what is happening.
+how can i understand 
+
